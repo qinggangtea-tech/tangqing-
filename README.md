@@ -1,0 +1,1 @@
+Deploy on Vercel → Framework: Vite, Build: npm run build, Output: dist\nReplace images in public/.\n
